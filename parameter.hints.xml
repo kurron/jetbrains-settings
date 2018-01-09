@@ -5,6 +5,7 @@
         <added pattern="java.io.ByteArrayOutputStream.ByteArrayOutputStream(size)" />
         <added pattern="org.springframework.amqp.core.AmqpTemplate.send(exchange,routingKey,message)" />
       </blacklist>
+      <blacklist language="Groovy" />
     </blacklists>
   </component>
 </application>
