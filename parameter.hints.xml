@@ -4,6 +4,7 @@
       <blacklist language="Java">
         <added pattern="java.io.ByteArrayOutputStream.ByteArrayOutputStream(size)" />
         <added pattern="org.springframework.amqp.core.AmqpTemplate.send(exchange,routingKey,message)" />
+        <added pattern="java.util.Optional.ifPresent(consumer)" />
       </blacklist>
       <blacklist language="Groovy" />
     </blacklists>
