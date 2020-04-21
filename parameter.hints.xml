@@ -9,5 +9,6 @@
       </blacklist>
       <blacklist language="Groovy" />
     </blacklists>
+    <option id="SHOW_FUNCTION_HINT" value="true" />
   </component>
 </application>
