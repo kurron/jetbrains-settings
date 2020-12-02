@@ -33,6 +33,7 @@
     </option>
     <option name="NAME_COUNT_TO_USE_STAR_IMPORT" value="2147483647" />
     <option name="NAME_COUNT_TO_USE_STAR_IMPORT_FOR_MEMBERS" value="2147483647" />
+    <option name="CODE_STYLE_DEFAULTS" value="KOTLIN_OFFICIAL" />
   </JetCodeStyleSettings>
   <codeStyleSettings language="Groovy">
     <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
@@ -45,5 +46,8 @@
     <option name="SPACE_WITHIN_SWITCH_PARENTHESES" value="true" />
     <option name="SPACE_WITHIN_SYNCHRONIZED_PARENTHESES" value="true" />
     <option name="SPACE_WITHIN_ANNOTATION_PARENTHESES" value="true" />
+  </codeStyleSettings>
+  <codeStyleSettings language="kotlin">
+    <option name="CODE_STYLE_DEFAULTS" value="KOTLIN_OFFICIAL" />
   </codeStyleSettings>
 </code_scheme>
